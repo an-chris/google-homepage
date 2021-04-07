@@ -1,2 +1,3 @@
 # google-homepage
-This is a google homepage clone
+
+This is the Google Homepage project on the Front End section of the Foundations Course.
